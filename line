@@ -7,3 +7,4 @@ $ln = new KS\Line\LineNotify($token);
 
 $text = 'สวัสดี Line Notify';
 $ln->send($text);
+?>
